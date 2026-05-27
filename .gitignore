@@ -1,0 +1,17 @@
+# Firebase e Logs locais
+.firebase/
+*-debug.log
+firebase-debug.log*
+firestore-debug.log*
+
+# Arquivos de Sistema Operacional (Windows/Mac)
+Thumbs.db
+.DS_Store
+
+# Diretórios de IDEs
+.vscode/
+.idea/
+.gemini/
+
+# Dependências (Caso decida usar npm no futuro)
+node_modules/
